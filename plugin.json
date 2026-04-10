@@ -1,7 +1,7 @@
 {
   "id": "channels-dvr",
   "name": "Channels DVR",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "api_version": "1.0.0",
   "repository": "m3ue/channels-dvr-plugin",
   "description": "Maps Gracenote station IDs from a local Channels DVR install to your playlist channels via the DVR guide stations API.",
